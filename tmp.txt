@@ -4,4 +4,4 @@ tmp
 
 pull
 
-push 1/2
+push 2/2
