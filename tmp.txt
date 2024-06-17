@@ -4,4 +4,4 @@ tmp
 
 pull
 
-push 2/4
+push 2/4 push 100
